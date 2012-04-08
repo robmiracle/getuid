@@ -1,0 +1,16 @@
+GETUID -- A simple way to get a Unique ID for an app.
+
+Requriements:
+
+Corona SDK
+A Web Host with PHP and MySQL if you want to host your own.
+
+
+files:
+
+main.lua -- Sample usage
+getuid.lua -- A simple way to fetch the UID
+getuid.php -- Server side code to get the UID
+getuid.sql -- Schema for a MySQL database
+
+
